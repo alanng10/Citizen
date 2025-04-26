@@ -47,3 +47,5 @@ Citizen has park kind arch benefit.
 Citizen has park kind arch marry.
 
 Citizen has park kind arch land.
+
+Citizen has major.

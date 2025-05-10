@@ -48,4 +48,8 @@ Citizen has park kind arch marry.
 
 Citizen has park kind arch land.
 
+Citizen has park mark.
+
+Citizen has park cross.
+
 Citizen has major.
